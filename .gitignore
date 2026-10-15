@@ -1,0 +1,12 @@
+# Dataset: keep local
+data/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets and notebooks
+.env
+.ipynb_checkpoints/
